@@ -1,0 +1,41 @@
+[✓] Flutter (Channel stable, 3.47.2, on macOS 26.6.2 25G83 darwin-arm64, locale en-US) [349ms]
+    • Flutter version 3.47.2 on channel stable at /opt/homebrew/share/flutter
+    • Upstream repository https://github.com/flutter/flutter.git
+    • Framework revision d3b14c8769 (9 weeks ago), 2026-08-26 16:07:51 -0700
+    • Engine revision a804b26164
+    • Dart version 3.13.2
+    • DevTools version 2.60.0
+    • Feature flags: enable-web, enable-linux-desktop, enable-macos-desktop, enable-windows-desktop, enable-android, enable-ios, cli-animations, enable-native-assets, enable-record-use, enable-swift-package-manager, omit-legacy-version-file, enable-lldb-debugging, enable-uiscene-migration
+
+[!] Android toolchain - develop for Android devices (Android SDK version 36.0.0) [1,377ms]
+    • Android SDK at /Users/omswaroopudumula/Library/Android/sdk
+    • Emulator version 37.1.11.0 (build_id 15917651) (CL:N/A)
+    • Platform android-37.0, build-tools 36.0.0
+    • Java binary at: /Applications/Android Studio.app/Contents/jbr/Contents/Home/bin/java
+      This is the JDK bundled with the latest Android Studio installation on this machine.
+      To manually set the JDK path, use: `flutter config --jdk-dir="path/to/jdk"`.
+    • Java version OpenJDK Runtime Environment (build 25.0.3+-15898627-b508.16)
+    ! Some Android licenses not accepted. To resolve this, run: flutter doctor --android-licenses
+
+[!] Xcode - develop for iOS and macOS (Xcode 27.0) [466ms]
+    • Xcode at /Applications/Xcode.app/Contents/Developer
+    • Build 27A266a
+    ! CocoaPods not installed.
+        CocoaPods is a package manager for iOS or macOS platform code.
+        Without CocoaPods, plugins will not work on iOS or macOS.
+        For more info, see https://flutter.dev/to/platform-plugins
+      For installation instructions, see https://guides.cocoapods.org/using/getting-started.html#installation
+
+[✓] Chrome - develop for the web [5ms]
+    • Chrome at /Applications/Google Chrome.app/Contents/MacOS/Google Chrome
+
+[✓] Connected device (4 available) [6.0s]
+    • sdk gphone16k arm64 (mobile) • emulator-5554 • android-arm64  • Android 17 (API 37) (emulator)
+    • sdk gphone16k arm64 (mobile) • emulator-5556 • android-arm64  • Android 17 (API 37) (emulator)
+    • macOS (desktop)              • macos         • darwin-arm64   • macOS 26.6.2 25G83 darwin-arm64
+    • Chrome (web)                 • chrome        • web-javascript • Google Chrome 156.0.8078.48
+
+[✓] Network resources [1,214ms]
+    • All expected network resources are available.
+
+! Doctor found issues in 2 categories.
